@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse - Tamil Nadu Grievance & Policy Intelligence",
+  "description": "Advanced Government Development Analyst and Policy Expert portal for citizen grievance intake, regional hotspot telemetry, and executive macro-policy briefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
